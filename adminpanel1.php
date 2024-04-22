@@ -1023,7 +1023,7 @@ echo "0 results";
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Mentor
         -->
-        Designed by <a href="https://amoldalwai.com/">Amol Dalwai</a>
+        Designed by <a href="https://alokpriyadarshi.com/">Alok Priyadarshi</a>
       </div>
     </div>
   </footer>
